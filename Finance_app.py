@@ -1,9 +1,7 @@
 import yfinance as yf
 import streamlit as st
 import datetime
-import ta
 import pandas as pd
-import requests
 
 # streamlit run C:\Users\KamalQuazbary\Dropbox\#Objectif2023\Streamlit\2-Finance_Streamlit.py
 
